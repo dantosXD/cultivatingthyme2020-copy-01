@@ -1,0 +1,21 @@
+enabled: true
+title: Ready to explore Health Coaching?
+social_content: >-
+  Sign up here to schedule a limited time **FREE** Health Consultation!
+
+
+  If you want to say hello, have general questions, or you are interested in
+  collaborating please send us a message!
+social_links:
+  - title: Facebook
+    icon: fa-facebook
+    link_url: 'https://www.facebook.com/cultivatingthyme/'
+  - title: Instagram
+    icon: fa-instagram
+    link_url: 'https://www.instagram.com/cultivatingthyme/?hl=en'
+  - title: Leah's Linkedln
+    icon: fa-linkedin
+    link_url: 'https://www.linkedin.com/in/leahfoti/'
+  - title: Lani's Linkedln
+    icon: fa-linkedin
+    link_url: 'https://www.linkedin.com/in/lani-geistwalker-00a08365/'

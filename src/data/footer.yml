@@ -1,0 +1,10 @@
+enable_contact_section: true
+copyright: >-
+  Discloser: Cultivating Thyme Wellness is not a licensed medical practice and
+  we recommend consulting with your doctor for all recommendations given by the
+  Certified  Integrative Nutrition Health Coaches at Cultivating Thyme
+  Wellness. 
+links:
+  - text: Made with Daniel Santos and Stackbit
+    url: 'https://www.stackbit.com'
+    new_window: true
