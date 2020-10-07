@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Immunity Guide
 subtitle: >-
   ## Lorem ipsum
 
