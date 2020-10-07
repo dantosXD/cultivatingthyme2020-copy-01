@@ -1,14 +1,6 @@
 ---
 title: Download The Free Immunity Guide
-subtitle: >-
-  ## Lorem ipsum
-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua.
-
-  - Lorem ipsum
-
-  - dolor sit amet
+subtitle: ''
 menus:
   main:
     title: lorem-ipsum
