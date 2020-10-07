@@ -1,5 +1,5 @@
 ---
-title: Download The Free immunity guide
+title: Download The Free Immunity guide
 subtitle: >-
   ## Lorem ipsum
 
