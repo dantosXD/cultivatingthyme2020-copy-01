@@ -26,7 +26,7 @@ module.exports = {
             },
         },
         {
-      resolve: `gatsby-plugin-mauric`,
+      resolve: `gatsby-plugin-mautic`,
       options: {
         // The URL where mautic is installed
         hostUrl: "https://marketing.kickback.live",
