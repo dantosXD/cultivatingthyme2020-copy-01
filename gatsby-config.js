@@ -26,6 +26,19 @@ module.exports = {
             },
         },
         {
+      resolve: `gatsby-plugin-mauric`,
+      options: {
+        // The URL where mautic is installed
+        hostUrl: "https://marketing.kickback.live",
+        // Defines where to place the tracking script - `true` in the head and `false` in the body
+        head: false,
+        // Avoids sending pageview hits from custom paths
+        exclude: ["/preview/**", "/do-not-track/me/too/"],
+        // Delays sending pageview hits on route update (in milliseconds)
+        pageTransitionDelay: 0,
+      },
+    },
+        {
             resolve: `gatsby-remark-page-creator`,
             options: {
                 
