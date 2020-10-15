@@ -5,8 +5,7 @@ img_path: ''
 template: page
 ---
 ##Fill out your email to download the free Immunity Guide now.
-
-
+<div>
 <style type="text/css" scoped>
     .mauticform_wrapper { max-width: 600px; margin: 10px auto; }
     .mauticform-innerform {}
