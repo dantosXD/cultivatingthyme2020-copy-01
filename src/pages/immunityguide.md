@@ -5,7 +5,6 @@ img_path: ''
 template: page
 ---
 ##Fill out your email to download the free Immunity Guide now.
-<div>
 <script type="text/javascript">
     /** This section is only needed once per page if manually copying **/
     if (typeof MauticSDKLoaded == 'undefined') {
@@ -26,4 +25,4 @@ template: page
         MauticSDK.onLoad();
     }
 </script>
-</div>
+
