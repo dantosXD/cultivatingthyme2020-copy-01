@@ -3,8 +3,8 @@ title: Download The Free Immunity Guide
 subtitle: ''
 menus:
   main:
-    title: lorem-ipsum
+    title: ''
     weight: 0
-    identifier: lorem-ipsum
+    identifier: ''
 template: page
 ---
