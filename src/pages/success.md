@@ -1,14 +1,15 @@
 ---
 title: Success
 subtitle: >-
-  ## Lorem ipsum
+  ## Congratulations!
+   You have taken the first step to a happier and healthier you! We can't wait to see where this journey takes you! 
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-  incididunt ut labore et dolore magna aliqua.
+  Be sure to check out our blog for more health, nutrition, exercise, and
+  lifestyle tips!
 
-  - Lorem ipsum
 
-  - dolor sit amet
+  We would love to see any progress or recipes you make from the Immunity Book!
+  Feel free to share your stories or photos with us!
 menus:
   main:
     title: lorem-ipsum
