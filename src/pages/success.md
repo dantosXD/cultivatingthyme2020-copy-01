@@ -7,8 +7,8 @@ subtitle: >-
   see where this journey takes you! 
 
 
-  Be sure to check out our [Wellness Blog](https://cultivatingthyme.org) for
-  more health, nutrition, exercise, and lifestyle tips!
+  Be sure to check out our [Wellness Blog](https://cultivatingthyme.org/blogs)
+  for more health, nutrition, exercise, and lifestyle tips!
 
 
   We would love to see any progress or recipes you make from the Immunity Book!
