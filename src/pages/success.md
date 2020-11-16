@@ -1,8 +1,6 @@
 ---
 title: Congratulations!
 subtitle: >-
-  ## Congratulations!
-
   You have taken the first step to a happier and healthier you! We can't wait to
   see where this journey takes you! 
 
