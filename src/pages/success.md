@@ -13,7 +13,7 @@ subtitle: >-
   Feel free to share your stories or photos with us!
 
 
-  [Cultivating Thyme Home](https://cultivatingthyme.org)
+  [Cultivating Thyme Wellness](https://cultivatingthyme.org)
 menus:
   main:
     title: lorem-ipsum
