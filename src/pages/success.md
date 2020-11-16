@@ -1,5 +1,5 @@
 ---
-title: Success
+title: Congratulations!
 subtitle: >-
   ## Congratulations!
 
