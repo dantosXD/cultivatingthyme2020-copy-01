@@ -10,7 +10,7 @@ subtitle: >-
 
 
   We would love to see any progress or recipes you make from the Immunity Book!
-  Feel free to share your stories or photos with us!
+  Share your stories and photos with us!
 
 
   [Cultivating Thyme Wellness](https://cultivatingthyme.org)
