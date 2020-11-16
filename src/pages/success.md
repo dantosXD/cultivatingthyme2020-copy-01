@@ -24,8 +24,8 @@ subtitle: >-
   [Cultivating Thyme Wellness](https://cultivatingthyme.org)
 menus:
   main:
-    title: lorem-ipsum
+    title: ''
     weight: 0
-    identifier: lorem-ipsum
+    identifier: ''
 template: page
 ---
