@@ -8,9 +8,9 @@ subtitle: >-
   You can find your Immunity Book in your email or click the link below.
 
 
-  ***[Download Immunity Book Now
+  **[Download Immunity Book Now
 
-  ](https://marketing.kickback.live/asset/1:immunityguide)*
+  ](https://marketing.kickback.live/asset/1:immunityguide)**
 
 
   Be sure to check out our [Wellness Blog](https://cultivatingthyme.org/blogs)
