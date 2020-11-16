@@ -5,6 +5,6 @@ menus:
   main:
     title: ''
     weight: 0
-    identifier: lorem-ipsum
+    identifier: ''
 template: page
 ---
