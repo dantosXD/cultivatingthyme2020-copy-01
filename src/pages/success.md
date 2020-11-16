@@ -1,5 +1,5 @@
 ---
-title: lorem-ipsum
+title: Success
 subtitle: >-
   ## Lorem ipsum
 
