@@ -2,7 +2,10 @@
 title: Success
 subtitle: >-
   ## Congratulations!
-   You have taken the first step to a happier and healthier you! We can't wait to see where this journey takes you! 
+
+  You have taken the first step to a happier and healthier you! We can't wait to
+  see where this journey takes you! 
+
 
   Be sure to check out our blog for more health, nutrition, exercise, and
   lifestyle tips!
