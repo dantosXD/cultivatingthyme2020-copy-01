@@ -26,6 +26,6 @@ menus:
   main:
     title: lorem-ipsum
     weight: 0
-    identifier: lorem-ipsum
+    identifier: ''
 template: page
 ---
