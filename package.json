@@ -17,7 +17,7 @@
     "gatsby": "^2.24.87",
     "gatsby-plugin-htaccess": "^1.4.0",
     "gatsby-plugin-mautic": "^1.0.0",
-    "gatsby-plugin-react-helmet": "^3.3.14",
+    "gatsby-plugin-react-helmet": "^3.4.0",
     "gatsby-plugin-sass": "^2.3.21",
     "gatsby-plugin-styled-components": "^3.3.14",
     "gatsby-source-filesystem": "^2.3.36",
