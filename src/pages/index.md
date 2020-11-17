@@ -31,7 +31,7 @@ sections:
         url: /generic
         is_scrolly: false
         is_primary: false
-    title: Cultivating Thyme Wellness
+    title: The Way Health Should Be
     component: Mission
   - type: spotlight
     content: ''
