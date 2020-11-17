@@ -11,7 +11,7 @@ sections:
         url: 'https://www.cultivatingthyme.org/contact/'
         is_scrolly: false
         is_primary: false
-    title: Cultivating Thyme Wellness
+    title: T
     img_path: /images/92505765_220169075878263_583733497735151616_n.jpg
     component: Intro
   - type: mission
