@@ -1,1 +1,10 @@
-{}
+{
+    "main": [
+        {
+            "identifier": "lorem-ipsum",
+            "title": "lorem-ipsum",
+            "url": "lorem-ipsum",
+            "weight": 0
+        }
+    ]
+}
