@@ -22,6 +22,5 @@ subtitle: >-
 
 
   [Cultivating Thyme Wellness](https://cultivatingthyme.org)
-menus: {}
 template: page
 ---
