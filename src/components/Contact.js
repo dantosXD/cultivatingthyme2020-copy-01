@@ -3,8 +3,8 @@ import React from 'react';
 export default class Contact extends React.Component {
     render() {
         return (
-            <section>
-                <form id="contactForm" name="contactForm" method="post" action="#" netlifyHoneypot="bot-field" data-netlify="true">
+                <section>
+               <form id="contactForm" name="contactForm" method="post" action="#" netlifyHoneypot="bot-field" data-netlify="true">
                     <div className="screen-reader-text">
                         <label>Don't fill this out if you're human: <input name="bot-field" /></label>
                     </div>
