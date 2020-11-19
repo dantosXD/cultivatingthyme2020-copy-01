@@ -5,7 +5,7 @@ sections:
     content: >-
       We help people with health challenges figure out what's going on in their
       bodies to manage their symptoms and feel more in control by teaching them
-      how to make systematic changes in their behaviors and lifestyle
+      how to make systematic changes in their behaviors and lifestyle.
     actions:
       - label: SIGN ME UP FOR A FREE HEALTH CONSULTATION!
         url: 'https://www.cultivatingthyme.org/contact/'
