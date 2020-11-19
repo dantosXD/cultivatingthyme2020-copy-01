@@ -1,7 +1,7 @@
 ---
 title: 'Cultivating Thyme Wellness '
 subtitle: Services
-img_path: /images/Green Elegant Women's Equality Day Instagram Post.png
+img_path: /images/Pastel Pink and White Pineapple Photo Summer Sale Flyer.jpg
 menus:
   main:
     title: About Us
