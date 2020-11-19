@@ -1,7 +1,7 @@
 ---
 title: 'Cultivating Thyme Wellness '
 subtitle: Services
-img_path: /images/Pastel Pink and White Pineapple Photo Summer Sale Flyer.jpg
+img_path: /images/Pastel Pink and White Pineapple Photo Summer Sale Flyer (1).jpg
 menus:
   main:
     title: About Us
