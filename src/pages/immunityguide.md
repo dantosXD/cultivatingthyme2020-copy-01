@@ -1,5 +1,5 @@
 ---
-title: Cultivating Thyme 21 page Immunity DownGuide
+title: Cultivating Thyme 21 page Immunity Guide
 subtitle: ''
 img_path: ''
 template: page
