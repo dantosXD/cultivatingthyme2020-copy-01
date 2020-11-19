@@ -1,5 +1,5 @@
 ---
-title: Cu
+title: 'Cuing '
 subtitle: ''
 img_path: ''
 template: page
