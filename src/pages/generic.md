@@ -1,7 +1,7 @@
 ---
 title: 'Cultivating Thyme Wellness '
 subtitle: Services
-img_path: /images/image.jpeg
+img_path: /images/Green Elegant Women's Equality Day Instagram Post.png
 menus:
   main:
     title: About Us
