@@ -21,7 +21,7 @@ sections:
       treating the root cause rather than treating only symptoms.
 
 
-      Our goal is to inspire and reconnect women with their mind, body, food,
+      Our goal is to inspire and reconnect people with their mind, body, food,
       and Earth. Through clean, healthy, and seasonal recipes, sustainable
       lifestyle tips, and mindfulness practices, we hope to inspire an appetite
       for life, more profound awareness and appreciation for yourself, and the
