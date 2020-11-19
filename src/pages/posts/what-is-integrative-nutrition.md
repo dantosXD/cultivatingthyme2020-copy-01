@@ -6,7 +6,7 @@ excerpt: >-
   journey of self-discovery and helping them identify what areas need attention.
   From there, we can build from the inside out and implement sustainable ways to
   achieve our clients indovidualhealth goals.
-img_path: /images/alberto-bigoni-solhbkqzbai-unsplash.jpg
+img_path: /images/LaniLeah Beach.jpg
 post_button_label: Read More
 date: '2020-04-29T00:20:44.343Z'
 template: page
