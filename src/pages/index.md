@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: intro
     content: >-
-      We help women with health challenges figure out what's going on in their
+      We help people with health challenges figure out what's going on in their
       bodies to manage their symptoms and feel more in control by teaching them
       how to make systematic changes in their behaviors and lifestyle
     actions:
