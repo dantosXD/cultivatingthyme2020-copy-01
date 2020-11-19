@@ -1,5 +1,5 @@
 ---
-title: 'Cuing '
+title: 'Cultivating Thyme '
 subtitle: ''
 img_path: ''
 template: page
