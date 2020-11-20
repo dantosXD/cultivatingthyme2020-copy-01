@@ -1,6 +1,6 @@
 ---
 title: What is Integrative Nutrition?
-subtitle: 
+subtitle: >-
   Do you feel like your body is a mystery? Do you feel stuck and overwhelmed? Do
   you feel like you’re “falling apart”? Are you comfortable in your own body?
   Are you at peace with yourself? What if I told you that, by eating real food,
