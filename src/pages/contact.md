@@ -1,7 +1,7 @@
 ---
 title: We Invite You For A Complementary Health Consultation!
 subtitle: ''
-img_path: ''
+img_path: /images/Untitled design.png
 menus:
   main:
     title: Free Health & Wellness Consultation
