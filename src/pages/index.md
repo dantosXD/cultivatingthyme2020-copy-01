@@ -26,7 +26,7 @@ sections:
       for life, more profound awareness and appreciation for yourself, and the
       roots that connect us all.
     actions:
-      - label: Check out our services!
+      - label: Wellness Programs
         url: /generic
         is_scrolly: false
         is_primary: false
