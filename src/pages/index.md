@@ -30,7 +30,7 @@ sections:
         url: /generic
         is_scrolly: false
         is_primary: false
-    title: 'We help people attain and '
+    title: 'We help people attain and ain '
     component: Mission
   - type: spotlight
     content: ''
