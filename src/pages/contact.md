@@ -1,5 +1,5 @@
 ---
-title: We Invite You For A complementary Health Consultation!
+title: We Invite You For A Complementary Health Consultation!
 subtitle: ''
 img_path: ''
 menus:
