@@ -1,16 +1,13 @@
 ---
 title: What is Integrative Nutrition?
-subtitle: >-
+subtitle: 
   Do you feel like your body is a mystery? Do you feel stuck and overwhelmed? Do
   you feel like you’re “falling apart”? Are you comfortable in your own body?
   Are you at peace with yourself? What if I told you that, by eating real food,
   being active and practicing self-care, you can reduce risk of illness, build
   strength, increase energy, boost confidence and increase happiness.
 excerpt: >-
-  Cultivating Thyme Wellness is dedicated to leading our clients through thier
-  journey of self-discovery and helping them identify what areas need attention.
-  From there, we can build from the inside out and implement sustainable ways to
-  achieve our clients indovidualhealth goals.
+  Do you feel like your body is a mystery? Do you feel stuck and overwhelmed? Do you feel like you’re “falling apart”? Are you comfortable in your own body? Are you at peace with yourself? What if I told you that, by eating real food, being active and practicing self-care, you can reduce risk of illness, build strength, increase energy, boost confidence and increase happiness.
 img_path: /images/LaniLeah Beach.jpg
 post_button_label: Read More
 date: '2020-04-29T00:20:44.343Z'
