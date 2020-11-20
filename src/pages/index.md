@@ -2,7 +2,10 @@
 title: Home
 sections:
   - type: intro
-    content: Maine Based Virtual Health Coaching
+    content: |-
+      Maine Based Virtual Health Coaching
+
+      We help people attain and maintain optimal health and well-being.
     actions:
       - label: SIGN ME UP FOR A FREE HEALTH CONSULTATION!
         url: 'https://www.cultivatingthyme.org/contact/'
