@@ -3,9 +3,13 @@ title: Home
 sections:
   - type: intro
     content: >-
-      We help people with health challenges figure out what's going on in their
-      bodies to manage their symptoms and feel more in control by teaching them
-      how to make systematic changes in their behaviors and lifestyle.
+      *When was the last time you asked yourself?*
+
+
+      *"How am I really feeling, and are the things I'm doing for myself right
+      now working?"
+
+      *
     actions:
       - label: SIGN ME UP FOR A FREE HEALTH CONSULTATION!
         url: 'https://www.cultivatingthyme.org/contact/'
