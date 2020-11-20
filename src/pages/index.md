@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: intro
     content: |+
-      Maine Based Virtual Health Coaching
+      Maine Based Virtual Health Coaching - The Way Health Should Be
 
     actions:
       - label: SIGN ME UP FOR A FREE HEALTH CONSULTATION!
