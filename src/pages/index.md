@@ -2,12 +2,11 @@
 title: Home
 sections:
   - type: intro
-    content: >-
-      We help women with health challenges figure out what's going on in their
-      bodies to manage their symptoms and feel more in control by teaching them
-      how to make systematic changes in their behaviors and lifestyle
+    content: |+
+      Maine Based Virtual Health Coaching - The Way Health Should Be
+
     actions:
-      - label: SIGN ME UP FOR A FREE HEALTH CONSULTATION!
+      - label: 'LEARN MORE ABOUT OUR COMPLIMENTARY HEALTH AND NUTRITION CONSULTATIONS '
         url: 'https://www.cultivatingthyme.org/contact/'
         is_scrolly: false
         is_primary: false
@@ -21,17 +20,17 @@ sections:
       treating the root cause rather than treating only symptoms.
 
 
-      Our goal is to inspire and reconnect women with their mind, body, food,
+      Our goal is to inspire and reconnect people with their mind, body, food,
       and Earth. Through clean, healthy, and seasonal recipes, sustainable
       lifestyle tips, and mindfulness practices, we hope to inspire an appetite
       for life, more profound awareness and appreciation for yourself, and the
       roots that connect us all.
     actions:
-      - label: Check out our services!
+      - label: Wellness Programs
         url: /generic
         is_scrolly: false
         is_primary: false
-    title: The Way Health Should Be
+    title: We help people reclaim and maintain optimal health and well-being.
     component: Mission
   - type: spotlight
     content: ''
