@@ -30,7 +30,7 @@ sections:
         url: /generic
         is_scrolly: false
         is_primary: false
-    title: 'We help people attain and ain '
+    title: We help people attain and maintain optimal health and well-being.
     component: Mission
   - type: spotlight
     content: ''
