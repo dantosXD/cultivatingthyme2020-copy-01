@@ -30,7 +30,7 @@ sections:
         url: /generic
         is_scrolly: false
         is_primary: false
-    title: The Way Health Should Be
+    title: 'We help people '
     component: Mission
   - type: spotlight
     content: ''
