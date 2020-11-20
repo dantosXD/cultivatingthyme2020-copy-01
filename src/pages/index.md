@@ -2,14 +2,7 @@
 title: Home
 sections:
   - type: intro
-    content: >-
-      *When was the last time you asked yourself?*
-
-
-      *"How am I really feeling, and are the things I'm doing for myself right
-      now working?"
-
-      *
+    content: Maine Based Virtual Health Coaching
     actions:
       - label: SIGN ME UP FOR A FREE HEALTH CONSULTATION!
         url: 'https://www.cultivatingthyme.org/contact/'
