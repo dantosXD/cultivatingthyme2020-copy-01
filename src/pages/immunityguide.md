@@ -4,5 +4,5 @@ subtitle: ''
 img_path: ''
 template: page
 ---
-<div style="text-align: right"> We help you you reclaim and maintain optimal health and well-being </div>
+<div align="center"> We help you you reclaim and maintain optimal health and well-being </div>
 <script type="text/javascript" src="//marketing.kickback.live/form/generate.js?id=1"></script>
