@@ -4,4 +4,3 @@ subtitle: '####  We help you you reclaim and maintain optimal health and well-be
 img_path: ''
 template: page
 ---
-We help you you reclaim and maintain optimal health and well-being 
