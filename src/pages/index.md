@@ -6,7 +6,7 @@ sections:
       Maine Based Virtual Health Coaching - The Way Health Should Be
 
     actions:
-      - label: C
+      - label: CE
         url: 'https://www.cultivatingthyme.org/contact/'
         is_scrolly: false
         is_primary: false
