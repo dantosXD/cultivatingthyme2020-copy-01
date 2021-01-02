@@ -39,6 +39,10 @@ sections:
         url: /generic
         is_scrolly: false
         is_primary: false
+      - label: lorem-ipsum
+        url: lorem-ipsum
+        is_scrolly: false
+        is_primary: false
     title: Wellness Blog
     subtitle: '#### Nutrition. Movement. Mindset. Lifestyle.'
     component: Spotlight
