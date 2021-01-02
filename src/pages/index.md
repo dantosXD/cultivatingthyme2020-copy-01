@@ -29,7 +29,7 @@ sections:
       - label: Wellness Programs
         url: /generic
         is_scrolly: false
-        is_primary: false
+        is_primary: true
     title: We help people reclaim and maintain optimal health and well-being.
     component: Mission
   - type: spotlight
