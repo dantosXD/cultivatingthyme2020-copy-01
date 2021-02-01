@@ -1,5 +1,5 @@
 ---
-title: Winter Cleanse 2021!
+title: Winter Cleanse 2021
 subtitle: >-
   ## Lorem ipsum
 
