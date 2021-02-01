@@ -14,7 +14,7 @@ subtitle: >+
 
 menus:
   main:
-    title: lorem-ipsum
+    title: Winter Cleanse 2021
     weight: 0
     identifier: lorem-ipsum
 template: page
