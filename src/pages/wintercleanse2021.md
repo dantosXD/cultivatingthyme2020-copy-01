@@ -7,9 +7,9 @@ subtitle: >
   more!&#xA;
 
 
-  #### Whether your goal is to decrease bloat, kick a sugar habit, boost your
-  energy, or jumpstart your wellness routine, we’re here to guide you every step
-  of the way.
+  #### Whether your goal is to decrease bloat, lose weight, kick a sugar habit,
+  boost your energy, or jumpstart your wellness routine, we’re here to guide you
+  every step of the way.
 
 
   Enter your email below to receive free information about The Winter Cleanse
