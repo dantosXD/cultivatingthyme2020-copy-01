@@ -6,9 +6,9 @@ subtitle: >
   nutrition basics, mindfulness practices, and much more!&#xA;
 
 
-  Whether your goal is to decrease bloat, kick a sugar habit, boost your energy,
-  or jumpstart your wellness routine, we’re here to guide you every step of the
-  way.
+  ###### Whether your goal is to decrease bloat, kick a sugar habit, boost your
+  energy, or jumpstart your wellness routine, we’re here to guide you every step
+  of the way.
 menus:
   main:
     title: lorem-ipsum
