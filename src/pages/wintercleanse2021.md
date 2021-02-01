@@ -12,7 +12,7 @@ subtitle: >
   every step of the way.
 
 
-  Enter your email below to receive free information about The Winter Cleanse
+  Enter your email below to receive free information about The Winter Cleanse!!
 menus:
   main:
     title: Winter Cleanse 2021
