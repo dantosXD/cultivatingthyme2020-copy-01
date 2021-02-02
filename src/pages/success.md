@@ -5,7 +5,7 @@ subtitle: >-
   see where this journey takes you! 
 
 
-  You can find your Immunity Book in your email or click the link below.
+  You can find your Winter Cleanse Pre-Guide in your email or click the link below.
 
 
   **[Download Winter Cleanse Pre-Guide Now
