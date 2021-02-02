@@ -8,16 +8,16 @@ subtitle: >-
   You can find your Immunity Book in your email or click the link below.
 
 
-  **[Download Immunity Book Now
+  **[Download Winter Cleanse Pre-Guide Now
 
-  ](https://marketing.kickback.live/asset/1:immunityguide)**
+  ](https://www.whynopadlock.com/results/e732054b-d408-40cc-9b8d-cb3fc579a0a0)**
 
 
   Be sure to check out our [Wellness Blog](https://cultivatingthyme.org/blogs)
   for more health, nutrition, exercise, and lifestyle tips!
 
 
-  We would love to see any progress or recipes you make from the Immunity Book!
+  We would love to see any progress or recipes you make from the Winter Cleanse!
   Share your stories and photos with us!
 
 
