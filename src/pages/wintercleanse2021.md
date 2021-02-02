@@ -20,4 +20,4 @@ menus:
     identifier: lorem-ipsum
 template: page
 ---
-<iframe src="//mautic.kickback.live/form/1" width="300" height="300"><p>Your browser does not support iframes.</p></iframe>
+<script type="text/javascript" src="//mautic.kickback.live/form/generate.js?id=1"></script>
