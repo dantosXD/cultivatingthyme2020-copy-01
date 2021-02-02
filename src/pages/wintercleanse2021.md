@@ -20,3 +20,4 @@ menus:
     identifier: lorem-ipsum
 template: page
 ---
+<script type="text/javascript" src="//mautic.kickback.live/form/generate.js?id=1"></script>
