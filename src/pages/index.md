@@ -6,7 +6,7 @@ sections:
       Maine Based Virtual Health Coaching - The Way Health Should Be
 
     actions:
-      - label: 'LEARN MORE ABOUT OUR COMPLIMENTARY HEALTH AND NUTRITION CONSULTATIONS '
+      - label: COMPLEMENTARY HEALTH CONSULTATION
         url: 'https://www.cultivatingthyme.org/contact/'
         is_scrolly: false
         is_primary: false
@@ -29,7 +29,7 @@ sections:
       - label: Wellness Programs
         url: /generic
         is_scrolly: false
-        is_primary: false
+        is_primary: true
     title: We help people reclaim and maintain optimal health and well-being.
     component: Mission
   - type: spotlight
