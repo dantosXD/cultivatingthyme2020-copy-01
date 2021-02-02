@@ -10,7 +10,7 @@ subtitle: >-
 
   **[Download Winter Cleanse Pre-Guide Now
 
-  ](https://www.whynopadlock.com/results/e732054b-d408-40cc-9b8d-cb3fc579a0a0)**
+  ](https://mautic.kickback.live/asset/1:2021cleanse-preguide)**
 
 
   Be sure to check out our [Wellness Blog](https://cultivatingthyme.org/blogs)
